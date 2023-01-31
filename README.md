@@ -1,4 +1,10 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![image](https://user-images.githubusercontent.com/83982603/215877592-8c728047-d67b-4216-80f5-d2fd299c3f2e.png)
+![image](https://user-images.githubusercontent.com/83982603/215877757-4af544a8-2adc-4548-8573-a31de8cca768.png)
+![image](https://user-images.githubusercontent.com/83982603/215877864-5afadfef-3ce2-454b-ab77-2e5c505c6f91.png)
+![image](https://user-images.githubusercontent.com/83982603/215877918-9726ef0a-581d-40e0-86e0-68f7d78f8518.png)
+![image](https://user-images.githubusercontent.com/83982603/215878055-a0b2aefe-4e2c-472b-b968-efea006cd248.png)
+
 
 # Individual Project - Henry Countries
 
