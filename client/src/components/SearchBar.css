@@ -1,0 +1,54 @@
+.container{
+    border-top: 0px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+    background-image: url(../img/estados.jpg);
+    background-size: cover;
+
+}
+
+.navlink-home{
+    width: 70px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    padding-left: 15px;
+
+}
+
+.search{
+    width: 25%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    border-radius: 15px;
+    margin-right: 10px;
+    /* margin-left: 10px; */
+    padding-left: 30px;
+    
+}
+
+
+.button{
+    width: 120px;
+    height:40px;
+    background-color: white;
+    border-radius: 12px;
+    margin-right: 300px;
+    cursor: pointer;
+}
+
+.activity{
+    width: 120px;
+    background-image: url("../img/croacia.jpg");
+    background-size: cover;
+    border-radius: 12px;
+    text-decoration: none;
+    padding-left: 40px;
+    color: aliceblue;
+}
